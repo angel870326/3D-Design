@@ -1,6 +1,6 @@
 # 3D-Design
 2016.01.04
 
-![image](https://drive.google.com/file/d/1p6YM3p5NDnhZDKD12TPmROOVDZqdlzWF/view?usp=sharing)
+![image](https://github.com/angel870326/3D-Design)
 
 
